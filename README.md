@@ -6,6 +6,29 @@ This project introduce a new concept: static variable.
 
 I will add a diagram that I drew myself when first attempting this project. Hopefully it helps you in formulating your thoughts in accordance to the school's requirements.
 
+My function passes gnl test on both mandatory and bonus parts. Gnl Tester provided by https://github.com/Tripouille
+
+To test for yourself, copy the following block of code onto terminal
+
+**Test mandatory part only**
+````
+git clone https://github.com/Tripouille/gnlTester.git
+cd gnlTester
+make m
+````
+**Test bonus part only**
+````
+git clone https://github.com/Tripouille/gnlTester.git
+cd gnlTester
+make b
+````
+**Test both mandatory and bonus part**
+````
+git clone https://github.com/Tripouille/gnlTester.git
+cd gnlTester
+make
+````
+
 22 November 2022, I validated the project with bonus points scored.
 
 <img width="209" alt="image" src="https://user-images.githubusercontent.com/97359403/203294510-491cef7f-785b-4dda-8f89-6fd015e2c098.png">
