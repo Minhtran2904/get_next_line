@@ -8,7 +8,11 @@ I will add a diagram that I drew myself when first attempting this project. Hope
 
 My function passes gnl test on both mandatory and bonus parts. Gnl Tester provided by https://github.com/Tripouille
 
-To test for yourself, copy the following block of code onto terminal
+To test for yourself, copy the following block of code onto terminal. Make sure your current directory has your get_next_line*.\* files.
+
+e.g.: your directory should have these files (*bonus.\* files are optional)
+
+<img width="586" alt="image" src="https://user-images.githubusercontent.com/97359403/203301577-341289c9-a619-42c4-ab52-c0950e38083c.png">
 
 **Test mandatory part only**
 ````
