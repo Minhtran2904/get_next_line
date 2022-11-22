@@ -4,7 +4,7 @@ The second project as you enter Hive - 42, is to make get_next_line. Which main 
 Your function will read the text file pointed by the file descriptor one line at a time.
 This project introduce a new concept: static variable.
 
-I will add a diagram that I drew myself when first attempting this project. Hopefully it helps you in formulating your thoughts in accordance to the school's requirements.
+I will add a diagram of thoughts that I drew myself when first attempting this project. Hopefully it helps you in formulating your thoughts in accordance to the school's requirements.
 
 My function passes gnl test on both mandatory and bonus parts. Gnl Tester provided by https://github.com/Tripouille
 
